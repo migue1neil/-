@@ -1,4 +1,4 @@
-setwd("C:/Users/Neil/Desktop/期貨與選擇權") # 設定工作目錄
+setwd("C:/Users/Neil/Documents/git-repos/期貨正逆價差") # 設定工作目錄
 
 #學習篩選欄位後抓取、ifelse()、
 library(tidyr) #整理數據使用
