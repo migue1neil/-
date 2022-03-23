@@ -1,3 +1,5 @@
+
+
 setwd("C:/Users/Neil/Documents/git-repos/期貨正逆價差") # 設定工作目錄
 
 #學習篩選欄位後抓取、ifelse()、
